@@ -1,0 +1,6 @@
+framework module Pods_virtualkitchen {
+  umbrella header "Pods-virtualkitchen-umbrella.h"
+
+  export *
+  module * { export * }
+}
