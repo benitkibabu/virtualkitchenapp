@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_material_light">#00e5ff</color>
+    <color name="primary_material_light">#009688</color>
+
+    <string name="edamam_api_key">b99c9a4cdf132d9f9e3e52b0f80d4e93</string>
+    <string name="edamam_api_id">9ad8839e</string>
+
+    <string name="f2f_key">5eb7c95134b5bd44bb83dbe878bd3aaf</string>
+
+    <integer-array name="fab_menu_item_colors">
+        <!-- A dark Holo shade of red -->
+        <item>@android:color/holo_red_dark</item>
+        <!-- A Holo shade of purple -->
+        <item>@android:color/holo_purple</item>
+        <!-- A light Holo shade of green -->
+        <item>@android:color/holo_green_light</item>
+    </integer-array>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008e7d</color>
+    <color name="colorPrimaryDark">#00796b</color>
+    <color name="colorAccent">#f5443a</color>
+    <color name="darkGreen">#00796b</color>
+    <color name="white">#ffffff</color>
+    <color name="green">#00897b</color>
+    <color name="main_head_tab">#d8008e7d</color>
+    <color name="black_trans">#d8333333</color>
+    <color name="white_trans">#d8ffffff</color>
+    <color name="black">#000000</color>
+    <color name="gray">#BBBBBB</color>
+    <color name="ads_bgcolor">#333333</color>
+
+</resources>
